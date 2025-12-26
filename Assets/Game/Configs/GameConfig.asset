@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70d7cf9c5a3df4d2cb4a69c788449363, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  <PlayerMovementSpeed>k__BackingField: 5
+  <PlayerRotationSpeed>k__BackingField: 800
+  <CharacterMinMovementSpeed>k__BackingField: 4
+  <CharacterMaxMovementSpeed>k__BackingField: 7
+  <CharacterMinRotationSpeed>k__BackingField: 600
+  <CharacterMaxRotationSpeed>k__BackingField: 800
+  <GrassAmountForSpawn>k__BackingField: 20
+  <TimeToGrassGrow>k__BackingField: 5
+  <BraidRadius>k__BackingField: 0.6
+  <ImproveRadius>k__BackingField: 1
+  <Mask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 128
+  <SpeedDisappearing>k__BackingField: 3
+  <SpeedGrowing>k__BackingField: 0.1
+  <CountOfSlotsInBackpack>k__BackingField: 10
+  <BackpackOffset>k__BackingField: 1
+  <ImproveCapacity>k__BackingField: 2
+  <CustomerPrefabs>k__BackingField:
+  - {fileID: 7654181274098553840, guid: 97b5cd461a308433199f369da03093c9, type: 3}
+  - {fileID: 4702179945608718174, guid: 5547908664c5348329a2b1d36792ba41, type: 3}
+  - {fileID: 2991189776292581775, guid: 8b60cd45a86364665b4ea68da0bd6d5a, type: 3}
+  - {fileID: 839870568194048227, guid: bfebf90e865384031899efa73102ceb8, type: 3}
+  - {fileID: 3849038062848146971, guid: 2e57a91b308db4c31adb81705f8099f1, type: 3}
+  <QueuePoints>k__BackingField:
+  - {fileID: 9059034590019881488, guid: d6a1cb249738746ae965c66a0ea0ac9f, type: 3}
+  - {fileID: 6376419802649806002, guid: 419c02c02d4cc4f97a8872e16e7bafb2, type: 3}
+  - {fileID: 6376419802649806002, guid: fb8703c8c4498470d8b5c9711eb31ce7, type: 3}
+  - {fileID: 1607653324377256485, guid: 5b145bb511ab14cde857215121c205c1, type: 3}
+  - {fileID: 2408485345005612568, guid: 04e726cb5f99b42d091af4b6df29a103, type: 3}
+  - {fileID: 3132103674931488041, guid: 86b78fdac601045ce8b3920027e4d5a4, type: 3}
+  - {fileID: 5300722012699076739, guid: 5495b76aad7c1421ab66282ec199b323, type: 3}
+  - {fileID: 3976372333141498755, guid: 5f0ff9e1a1e4e44a9857650b388ee5b0, type: 3}
+  - {fileID: 4277635478033036599, guid: 2c497c6f94a8b4310bad78a8bcbb4417, type: 3}
+  - {fileID: 6536194948456505050, guid: 52fbe3916dcb545018829891c574fbe6, type: 3}
+  - {fileID: 4699869738278530886, guid: 5aa17c2288caf4a9c9e1639e3a9a962d, type: 3}
+  <IncreeseToolGreen>k__BackingField: 5
+  <IncreeseToolYellow>k__BackingField: 7
+  <IncreeseBackpackGreen>k__BackingField: 10
+  <IncreeseBackpackYellow>k__BackingField: 4

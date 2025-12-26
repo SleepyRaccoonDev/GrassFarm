@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c929c9a05e174431b17ee8eed59c7d8, type: 3}
+  m_Name: GrassGreen
+  m_EditorClassIdentifier: 
+  <Type>k__BackingField: 1
+  <Color>k__BackingField: {r: 0.25451612, g: 1, b: 0, a: 1}
+  <ItemPrefab>k__BackingField: {fileID: 4319042481925424300, guid: 291b2340eef224ea0b894b9cd7830832,
+    type: 3}
+  <ChanseToDropItem>k__BackingField: 1
+  <NextDrop>k__BackingField: {fileID: 11400000, guid: 7c87ea778730b4520afcc8179323b7d7,
+    type: 2}
